@@ -7,6 +7,7 @@
 3.Запускаете BulbaX.exe от имени администратора  
 4.Нажимаете кнопку Inject  
 5.После удачного инжекта пишете свой скрипт в поле и нажимаете кнопку Execute  
+  
 English:  
 New free injector for roblox. The injector does not require viewing advertising, not all scripts work - but most still work.  
 How to inject cheat?  
